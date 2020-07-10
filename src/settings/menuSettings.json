@@ -1,0 +1,73 @@
+{
+    "data" : [
+      {
+        "name": "Item1",
+        "router": "/item1",
+        "type": "menuItem",
+        "children": []
+      },
+      {
+        "name": "Item2",
+        "router": "/item2",
+        "type": "menuItem",
+        "children": [
+            {
+                "name": "Item21",
+                "router": "/item21",
+                "type": "menuItem",
+                "children": []
+            },
+            {
+                "name": "Item21",
+                "router": "/item22",
+                "type": "menuItem",
+                "children": []
+            }
+        ]
+      },
+      {
+        "name": "Item3",
+        "router": "/item3",
+        "type": "form",
+        "children": []
+      },
+      {
+        "name": "Item4",
+        "router": "/item4",
+        "type": "menuItem",
+        "children": [
+            {
+                "name": "Item41",
+                "router": "/item41",
+                "type": "menuItem",
+                "children": [
+                    {
+                        "name": "Item411",
+                        "router": "/item411",
+                        "type": "menuItem",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Item42",
+                "router": "/item42",
+                "type": "menuItem",
+                "children": []
+            }
+        ]
+      },
+      {
+        "name": "Item5",
+        "router": "/item5",
+        "type": "menuItem",
+        "children": []
+      },
+      {
+        "name": "Item6",
+        "router": "/item6",
+        "type": "menuItem",
+        "children": []
+      }
+    ]
+}
