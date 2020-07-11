@@ -40,14 +40,7 @@
                 "name": "Item41",
                 "router": "/item41",
                 "type": "menuItem",
-                "children": [
-                    {
-                        "name": "Item411",
-                        "router": "/item411",
-                        "type": "menuItem",
-                        "children": []
-                    }
-                ]
+                "children": []
             },
             {
                 "name": "Item42",
